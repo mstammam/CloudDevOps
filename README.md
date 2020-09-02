@@ -21,3 +21,4 @@ As a part of the project, you will need to install Jenkins and a few plugins to 
 
 
 
+git remote add origin https://github.com/mstammam/CloudDevOps.git
